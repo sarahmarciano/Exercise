@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+  height: 100%;
+}
+
+.Create {
+  margin-top: 70px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Title {
+  font-size: 18px;
+  color: #3e51b5;
+  margin-bottom: 24px;
+}
+
+.Loading {
+  align-items: center;
+  display: flex;
+  margin-top: 50px;
+}
+
+.Values {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 24px;
+}
+
+.Value {
+  border-left: 4px solid #f52756;
+  display: flex;
+  align-items: center;
+  margin: 8px;
+  padding: 14px;
+}
+
+.Val {
+  font-weight: bold;
+  color: #3e51b5;
+}
